@@ -181,7 +181,7 @@ def main():
     scene_1()
     
     #TODO, implement random part picking for scene 2
-    #scene_2()
+    scene_2()
     scene_3()
 
 
